@@ -2,11 +2,12 @@
 Trabalho1 AMMCI Projeto de controle de iluminação utilizando lógica fuzzy
 
 
-Equipe: Giovanna Gomes Nunes RA 107611
-Universidade Estadual de Maringá
-Disciplina: APRENDIZAGEM DE M.E M.DE C.INCERTO
-Título do Trabalho: Sistema de Controle de Iluminação Adaptável Utilizando Lógica Fuzzy
-Professor: Wagner Igarashi
+### Equipe: Giovanna Gomes Nunes RA 107611
+### Equipe: Giovanna Gomes Nunes RA 107611
+### Universidade Estadual de Maringá
+### Disciplina: APRENDIZAGEM DE M.E M.DE C.INCERTO
+### Título do Trabalho: Sistema de Controle de Iluminação Adaptável Utilizando Lógica Fuzzy
+### Professor: Wagner Igarashi
 
 
 Descrição do Problema
