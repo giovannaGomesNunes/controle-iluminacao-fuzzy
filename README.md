@@ -9,19 +9,19 @@ Título do Trabalho: Sistema de Controle de Iluminação Adaptável Utilizando L
 Professor: Wagner Igarashi  
 
 
-#Descrição do Problema  
+# Descrição do Problema  
 O problema abordado neste projeto consiste na implementação de um sistema de controle de iluminação adaptável utilizando lógica fuzzy. O objetivo é desenvolver um sistema que ajuste automaticamente a intensidade da iluminação com base em múltiplas variáveis ambientais e de preferência dos usuários. As variáveis consideradas incluem luminosidade natural, detecção de presença, temperatura ambiente e preferência dos usuários, cada uma influenciando a decisão final de ajuste da iluminação. A importância desse sistema reside na capacidade de oferecer conforto e eficiência energética em ambientes diversos, adaptando-se dinamicamente às condições do ambiente e às preferências dos usuários.
 
-#Ferramenta Utilizada  
+# Ferramenta Utilizada  
 Para o desenvolvimento deste sistema de controle fuzzy, optou-se pelo uso da linguagem de programação Python devido à sua ampla adoção na área de computação científica e inteligência artificial. Python oferece uma vasta gama de bibliotecas e ferramentas especializadas em lógica fuzzy, como o scikit-fuzzy, que facilita a implementação de sistemas fuzzy de forma eficiente e intuitiva. Além disso, Python é conhecido por sua legibilidade e facilidade de prototipagem, o que é crucial para o desenvolvimento ágil e iterativo de sistemas complexos como este.
 
-#Dados do Computador  
+# Dados do Computador  
 Processador	11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz  2.42 GHz  
 RAM instalada	8,00 GB  
 Tipo de sistema	Sistema operacional de 64 bits, processador baseado em x64  
 
 
-#Explicação do Algoritmo  
+# Explicação do Algoritmo  
 O algoritmo implementado utiliza princípios avançados de lógica fuzzy para inferir a intensidade ideal de iluminação com base em diversas variáveis de entrada que capturam as nuances ambientais e as preferências dos usuários. A lógica fuzzy oferece uma abordagem flexível e intuitiva para lidar com incertezas e variações, comparada às metodologias tradicionais baseadas em lógica booleana. Abaixo, detalhamos os passos principais que compõem esse processo:
 
 Definição das Variáveis Linguísticas:  
@@ -36,7 +36,7 @@ As regras de inferência são formuladas para orientar a tomada de decisão com 
 Execução do Sistema de Controle Fuzzy:  
 Utilizando um sistema de controle fuzzy, as regras definidas são aplicadas para calcular a intensidade de iluminação ideal. Esse processo inclui a etapa de defuzzificação, onde os resultados fuzzy são convertidos em valores claros e acionáveis. Isso permite que o sistema adapte dinamicamente a iluminação, otimizando tanto o conforto dos usuários quanto a eficiência energética do ambiente.
 
-#Casos de Teste  
+# Casos de Teste  
 
 Caso de Teste 1:  
 Entradas:      
